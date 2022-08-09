@@ -1,0 +1,14 @@
+Figure 2.3: Class Diagram for a proposed CreditCard Class. 
+---------------------------------------------
+Class:     CreditCard                       
+---------------------------------------------
+Fields:   _customer    _balance 
+          _bank        _limit
+          _account
+---------------------------------------------
+Behaviors:   get_customer()     get_balance()
+             get_bank()         get_limit()
+             get_account()      charge(price)
+             make_payment(amount)
+---------------------------------------------
+
